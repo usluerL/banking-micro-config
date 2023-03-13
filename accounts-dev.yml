@@ -10,5 +10,5 @@ accounts:
   activeBranches:
     - Istanbul_dev
     - Ankara_dev
-    - Antalya_dev
+    - Antalya_dev_git_test
 
