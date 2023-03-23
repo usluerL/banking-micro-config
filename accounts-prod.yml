@@ -1,7 +1,7 @@
 accounts:
-  msg: Welcome to the Byusluer Banking App
+  msg: Welcome to the Byusluer Banking App --test for autoconfig
   build:
-    version:3
+    version: 0.1
   mailDetails:
     hostName: byusluer-banking@internatiol.com
     port: 9010
