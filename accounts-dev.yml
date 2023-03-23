@@ -1,5 +1,5 @@
 accounts:
-  msg: {cipher} 991b95c04a3c1e087e03d2cad8c97e0c217a49c1faba9ea65c75caae17642029e21de71fa5f87a0aecc2690630c813e499ea4ddbe020197d7f9f7e7d69109fbc
+  msg: {cipher} '991b95c04a3c1e087e03d2cad8c97e0c217a49c1faba9ea65c75caae17642029e21de71fa5f87a0aecc2690630c813e499ea4ddbe020197d7f9f7e7d69109fbc'
   build:
     version:3
   mailDetails:
